@@ -1,9 +1,6 @@
-# 📊 Desafio Técnico — Estágio em Desenvolvimento de Dados
-Fato Analytics
+# 📊 Desafio — Desenvolvimento de Dados
 
-Este repositório contém a solução desenvolvida para o desafio técnico do processo seletivo.
-
-O objetivo foi transformar dados brutos de um CRM (planilha Excel) em indicadores estruturados e insights relevantes para o negócio.
+Este repositório contém a solução desenvolvida com objetivo foi transformar dados brutos de um CRM (planilha Excel) em indicadores estruturados e insights relevantes para o negócio.
 
 ---
 
